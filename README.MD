@@ -4,7 +4,7 @@
 
 # Install
 
-- Clone the Project ()
+- Clone this Project (https://github.com/GauravKumar-Dev/Simple-Todo-Mern-App.git)
 
 - Add your MongoDB database details in config/config.env
 
