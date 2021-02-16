@@ -46,7 +46,7 @@ const App = () => {
             }
           </div>
         </div>
-        <a href="http://drejcreative.com">By Drej Creative</a>
+        <a href="http://codingwithgaurav.com">By Gaurav Kumar</a>
       </div>
     </Store.Provider>
   );
